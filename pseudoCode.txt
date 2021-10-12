@@ -1,0 +1,12 @@
+As a user I want to play a game of rock paper scissors against the computer
+When I enter my play(rock, paper or scissors) this input will be compared to the computers play
+The computers play will be randomly generated
+
+Logic for winning plays:
+
+Rock > scissors
+Scissors > paper
+Paper > rock
+If both plays are the same, it is a draw
+
+Once result is determined, display result
